@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h2, h3 {
+    color: #00FF00;
+  }
+  
+  a {
+    color: #00FF00;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #00CC00;
+  }
+  
+  button {
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #00CC00;
+  }
+  
+  input, button {
+    border-radius: 8px;
+  }
+  
